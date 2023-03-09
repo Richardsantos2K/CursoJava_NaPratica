@@ -83,7 +83,6 @@ public class IMC {
             System.out.println("Situação: Obesidade grau II (severa)");
             System.out.println("-------------------------------------------------");
         }else{
-            if(IMC == 40) {
                 System.out.println("-----------------Dados da pessoa-----------------");
                 System.out.println("Altura: " + a);
                 System.out.println("Peso: " + kg);
@@ -91,7 +90,6 @@ public class IMC {
                 System.out.println();
                 System.out.println("Situação: Obesidade grau III (Mórbida)");
                 System.out.println("-------------------------------------------------");
-            }
         }
 
 
