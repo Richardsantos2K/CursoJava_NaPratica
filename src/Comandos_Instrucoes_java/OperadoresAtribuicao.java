@@ -1,3 +1,5 @@
+package Comandos_Instrucoes_java;
+
 public class OperadoresAtribuicao {
     public static void main(String[]Args){
 

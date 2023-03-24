@@ -1,3 +1,5 @@
+package Comandos_Instrucoes_java;
+
 public class OperadoresRelacionais {
     public static void main(String[]args){
 

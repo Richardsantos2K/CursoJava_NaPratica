@@ -8,10 +8,8 @@ public class Tabuada {
         Scanner entrada = new Scanner(System.in);
 
         System.out.println("-------------------- TABUADA --------------------");
-        System.out.println();
         System.out.print("Qual tabuada você deseja fazer ?: ");
         int tab = entrada.nextInt();
-        System.out.println();
         System.out.println("-------------------------------------------------");
 
 

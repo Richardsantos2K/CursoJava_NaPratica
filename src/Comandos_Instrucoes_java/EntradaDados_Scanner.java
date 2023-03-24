@@ -1,3 +1,5 @@
+package Comandos_Instrucoes_java;
+
 import java.util.Scanner;
 
 public class EntradaDados_Scanner {
